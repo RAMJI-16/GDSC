@@ -1,0 +1,60 @@
+h1{
+    color: white;
+    background-color: rgb(172, 226, 10);
+    font-size: 64px;
+    margin-left: 18px;
+    padding: 10opx;
+}
+
+body{
+    background-color: #E3DFFD;
+    font-family: 'Courier New', Courier, monospace;
+}
+.landing{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 32PX;
+}
+
+.about p{
+    display: flex;
+    margin-left: 100px;
+    
+}
+
+h2{
+    color: #ff0000 ;
+}
+
+
+
+.myskill li{
+    display: flex;
+    margin-left: 100px;
+  
+    
+}
+.ts p{
+    display: flex;
+    margin-left: 100px;
+}
+.ms li{
+    margin-left: 78px;
+}
+.contact p{
+    margin-left: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
